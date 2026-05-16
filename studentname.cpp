@@ -37,7 +37,7 @@ void display(Student s, int m)
     }
 
     cout << s.total << " "
-         << fixed << setprecision(2)
+         << fixed << setprecision(20)
          << s.average << endl;
 }
 
