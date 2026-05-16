@@ -83,7 +83,7 @@ int main()
 
     for (int i = 0; i < n; i++)
     {
-        display(s[i], m);
+        display(s[i], m);x
     }
 
     cout << "Top Performer: "
